@@ -1,6 +1,6 @@
 {
     "aliosStudio.inner.yosBin": "aos",
-    "aliosStudio.hardware.board": "starterkit",
+    "aliosStudio.hardware.board": "developerkit",
     "aliosStudio.name": "helloworld",
     "aliosStudio.buildList": [
         {

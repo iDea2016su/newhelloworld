@@ -7,7 +7,7 @@
       "command": "aos",
       "args": [
         "make",
-        "helloworld@starterkit"
+        "helloworld@developerkit"
       ],
       "presentation": {
         "panel": "dedicated"
@@ -19,7 +19,7 @@
       "command": "aos",
       "args": [
         "upload",
-        "helloworld@starterkit"
+        "helloworld@developerkit"
       ],
       "presentation": {
         "panel": "dedicated"
