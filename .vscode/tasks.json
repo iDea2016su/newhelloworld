@@ -30,7 +30,9 @@
       "type": "shell",
       "command": "aos",
       "args": [
-        "monitor"
+        "monitor",
+        "",
+        ""
       ],
       "presentation": {
         "panel": "dedicated"
@@ -43,6 +45,17 @@
       "args": [
         "make",
         "clean"
+      ],
+      "presentation": {
+        "panel": "dedicated"
+      }
+    },
+    {
+      "label": "alios-studio: List Devices",
+      "type": "shell",
+      "command": "aos",
+      "args": [
+        "devices"
       ],
       "presentation": {
         "panel": "dedicated"
