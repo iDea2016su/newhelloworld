@@ -1,7 +1,7 @@
 {
     "aliosStudio.inner.yosBin": "aos",
     "aliosStudio.hardware.board": "developerkit",
-    "aliosStudio.name": "helloworld",
+    "aliosStudio.name": "helloiot",
     "aliosStudio.buildList": [
         {
             "name": "clean"
@@ -20,5 +20,10 @@
     "aliosStudio.build.multiBinTarget": "app",
     "aliosStudio.flashAllBin": false,
     "aliosStudio.isAosSource": true,
-    "aliosStudio.sdkPath": "${workspaceRoot}"
+    "aliosStudio.sdkPath": "${workspaceRoot}",
+    "aliosStudio.comPort": "COM4",
+    "aliosStudio.hardware.baudrate": 115200,
+    "files.associations": {
+        "aos.h": "c"
+    }
 }

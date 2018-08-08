@@ -7,7 +7,7 @@
       "command": "aos",
       "args": [
         "make",
-        "helloworld@developerkit"
+        "helloiot@developerkit"
       ],
       "presentation": {
         "panel": "dedicated"
@@ -19,7 +19,7 @@
       "command": "aos",
       "args": [
         "upload",
-        "helloworld@developerkit"
+        "helloiot@developerkit"
       ],
       "presentation": {
         "panel": "dedicated"
@@ -31,8 +31,8 @@
       "command": "aos",
       "args": [
         "monitor",
-        "",
-        ""
+        "COM4",
+        "115200"
       ],
       "presentation": {
         "panel": "dedicated"
